@@ -1,6 +1,7 @@
 [
   {
     "package": "alsdownloader",
-    "url": "https://github.com/Cesarito2021/als_downloader"
+    "url": "https://github.com/Cesarito2021/als_downloader",
+    "branch": "main"
   }
 ]
