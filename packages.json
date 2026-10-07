@@ -3,5 +3,10 @@
     "package": "ALSdownloadeR",
     "url": "https://github.com/Cesarito2021/als_downloader",
     "branch": "main"
+  },
+  {
+    "package": "GALSdownloadeR",
+    "url": "https://github.com/Cesarito2021/global-als-downloader",
+    "branch": "codex/global-021"
   }
 ]
